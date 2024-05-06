@@ -1,1 +1,3 @@
 # CVEs
+
+CVE submission record
